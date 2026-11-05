@@ -1,0 +1,1043 @@
+{
+    "manifest_version": "1.0.16",
+    "title": "Dynamix",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/?elementor_library=404-page",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/?elementor_library=single-post",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog Archive",
+            "screenshot": "screenshots\/blog-archive.jpg",
+            "source": "templates\/blog-archive.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/?elementor_library=blog-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Footer",
+            "screenshot": "screenshots\/theme-footer.jpg",
+            "source": "templates\/theme-footer.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/?elementor_library=theme-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Header",
+            "screenshot": "screenshots\/theme-header.jpg",
+            "source": "templates\/theme-header.json",
+            "preview_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/?elementor_library=theme-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "2.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.12",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "modern-architecture-PKT2R8X.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/modern-architecture-PKT2R8X-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 256647,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PKT2R8X"
+        },
+        {
+            "filename": "new-apartment-buildings-at-the-river-spree-AADHTRK.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/new-apartment-buildings-at-the-river-spree-AADHTRK-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 220354,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AADHTRK"
+        },
+        {
+            "filename": "trocadero-garden-in-autumn-HKFVQWG.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/trocadero-garden-in-autumn-HKFVQWG-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 411368,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HKFVQWG"
+        },
+        {
+            "filename": "city-bridge-ZMHGFQR.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/city-bridge-ZMHGFQR-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 211344,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZMHGFQR"
+        },
+        {
+            "filename": "modern-building-6C52YZS.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/modern-building-6C52YZS-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 188558,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-6C52YZS"
+        },
+        {
+            "filename": "the-office-building-V9XWZKQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/the-office-building-V9XWZKQ-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 231603,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-V9XWZKQ"
+        },
+        {
+            "filename": "s1-1-907x1024-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/s1-1-907x1024-1-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 127114,
+            "dimensions": [
+                907,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-house-with-garden-swimming-pool-and-wooden--PX3YRNY"
+        },
+        {
+            "filename": "night-city-dusseldorf-hotel-hyatt-germany-MBS8WLB.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/night-city-dusseldorf-hotel-hyatt-germany-MBS8WLB-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 258689,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MBS8WLB"
+        },
+        {
+            "filename": "elbphilharmonie-a-concert-hall-in-the-hafencity-qu-PZHWQDA.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/elbphilharmonie-a-concert-hall-in-the-hafencity-qu-PZHWQDA-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 255076,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZHWQDA"
+        },
+        {
+            "filename": "windows-skyscraper-business-reflect-office-corpora-PGZWL9F.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/windows-skyscraper-business-reflect-office-corpora-PGZWL9F-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 180378,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGZWL9F"
+        },
+        {
+            "filename": "confident-bearded-bookstore-manager-E85CVZP.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/confident-bearded-bookstore-manager-E85CVZP.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 42595,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E85CVZP"
+        },
+        {
+            "filename": "content-handsome-bearded-business-manager-DMAU9BX.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/content-handsome-bearded-business-manager-DMAU9BX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 47355,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DMAU9BX"
+        },
+        {
+            "filename": "handsome-confident-entrepreneur-2JTX9C3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/handsome-confident-entrepreneur-2JTX9C3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 159243,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2JTX9C3"
+        },
+        {
+            "filename": "portrait-of-an-attractive-young-man-in-business-su-P6HG474.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/portrait-of-an-attractive-young-man-in-business-su-P6HG474-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 92743,
+            "dimensions": [
+                1431,
+                1431
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6HG474"
+        },
+        {
+            "filename": "business-man-with-beard-at-modern-office-PFJW7NL.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/business-man-with-beard-at-modern-office-PFJW7NL-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 84837,
+            "dimensions": [
+                1431,
+                1431
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFJW7NL"
+        },
+        {
+            "filename": "close-up-casual-latin-businessman-outside-2EUPHX7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/close-up-casual-latin-businessman-outside-2EUPHX7-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 105099,
+            "dimensions": [
+                1431,
+                1431
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EUPHX7"
+        },
+        {
+            "filename": "handsome-man-in-suitover-gray-wall-businessman-mal-YF6MJKE-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/handsome-man-in-suitover-gray-wall-businessman-mal-YF6MJKE-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 224173,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YF6MJKE"
+        },
+        {
+            "filename": "older-male-fashion-model-posing-against-gray-backg-3EHQ6KH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/older-male-fashion-model-posing-against-gray-backg-3EHQ6KH-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 150117,
+            "dimensions": [
+                1431,
+                1431
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3EHQ6KH"
+        },
+        {
+            "filename": "attractive-young-businessman-using-tablet-near-bus-P52ZFZH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/attractive-young-businessman-using-tablet-near-bus-P52ZFZH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 30061,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P52ZFZH"
+        },
+        {
+            "filename": "young-architect-with-blueprint-G78U3FH.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/young-architect-with-blueprint-G78U3FH.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 21283,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G78U3FH"
+        },
+        {
+            "filename": "portrait-of-a-young-business-man-PZE2QU8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/portrait-of-a-young-business-man-PZE2QU8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 57899,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZE2QU8"
+        },
+        {
+            "filename": "male-architect-in-office-PTV3CYY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/male-architect-in-office-PTV3CYY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 32563,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTV3CYY"
+        },
+        {
+            "filename": "modern-house-exterior-VHJVCXE.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/modern-house-exterior-VHJVCXE-600x408.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 111040,
+            "dimensions": [
+                948,
+                645
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VHJVCXE"
+        },
+        {
+            "filename": "architectural-building-XPPR9ZC.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/architectural-building-XPPR9ZC-600x427.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 293607,
+            "dimensions": [
+                1440,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-XPPR9ZC"
+        },
+        {
+            "filename": "modern-villa-with-pool-and-deck-LVC8QY.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/modern-villa-with-pool-and-deck-LVC8QY-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 176975,
+            "dimensions": [
+                1440,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-villa-with-pool-and-deck-LVC8QY2"
+        },
+        {
+            "filename": "architectural-building-design-8X4V44H.jpg",
+            "thumbnail_url": "https:\/\/templatekit.brothergrounds.com\/dynamix\/wp-content\/uploads\/sites\/5\/2020\/10\/architectural-building-design-8X4V44H-600x427.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 203111,
+            "dimensions": [
+                1440,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8X4V44H"
+        }
+    ]
+}

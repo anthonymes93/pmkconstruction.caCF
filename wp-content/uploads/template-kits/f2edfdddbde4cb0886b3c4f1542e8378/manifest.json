@@ -1,0 +1,1071 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Excava",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/product\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product-Detail",
+            "screenshot": "screenshots\/product-detail.jpg",
+            "source": "templates\/product-detail.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/product-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Productdetail-metform",
+            "screenshot": "screenshots\/productdetail-metform.jpg",
+            "source": "templates\/productdetail-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/productdetail-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter-Metform",
+            "screenshot": "screenshots\/newsletter-metform.jpg",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact-Metform",
+            "screenshot": "screenshots\/contact-metform.jpg",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/kitpro.site\/excava\/template-kit\/contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.5.10",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.2",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.7.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "builder-at-the-shop-with-heavy-machinery-2021-09-25-07-24-40-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/builder-at-the-shop-with-heavy-machinery-2021-09-25-07-24-40-utc-copy-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151899,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "with-yellow-headphones-on-neck-construction-worke-2022-02-03-17-47-36-utc-copy8.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/with-yellow-headphones-on-neck-construction-worke-2022-02-03-17-47-36-utc-copy8-800x1197.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 164006,
+            "dimensions": [
+                842,
+                1260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "snow-clearing-tractor-clears-the-way-after-heavy-2022-10-04-20-28-24-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/snow-clearing-tractor-clears-the-way-after-heavy-2022-10-04-20-28-24-utc-800x1197.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 206102,
+            "dimensions": [
+                842,
+                1260
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "excavatr1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/excavatr1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 48242,
+            "dimensions": [
+                600,
+                412
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "dozer1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/dozer1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 48843,
+            "dimensions": [
+                600,
+                412
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "dumpster1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/dumpster1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 38274,
+            "dimensions": [
+                600,
+                412
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "coal-mine-2021-08-26-22-38-45-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/coal-mine-2021-08-26-22-38-45-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 191649,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "building-demolition-with-hydraulic-excavator-destr-2021-09-01-19-02-30-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/building-demolition-with-hydraulic-excavator-destr-2021-09-01-19-02-30-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 241021,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "snow-clearing-tractor-clears-the-way-after-heavy-s-2022-10-17-20-17-00-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/snow-clearing-tractor-clears-the-way-after-heavy-s-2022-10-17-20-17-00-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 221431,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "empty-wheel-loader-machine-loading-gravel-industr-2021-08-28-18-37-42-utc.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/empty-wheel-loader-machine-loading-gravel-industr-2021-08-28-18-37-42-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 128435,
+            "dimensions": [
+                800,
+                507
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "builder-with-a-sales-consultant-at-the-shop-with-h-2021-09-25-03-41-05-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/builder-with-a-sales-consultant-at-the-shop-with-h-2021-09-25-03-41-05-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 218509,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "chalcopyrite-2021-08-26-23-03-17-utc.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/chalcopyrite-2021-08-26-23-03-17-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 241027,
+            "dimensions": [
+                800,
+                548
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "testi3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/testi3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 117354,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "testi2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/testi2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 167608,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "testi1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/testi1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119038,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logo3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logo3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4436,
+            "dimensions": [
+                392,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logo4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logo4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3070,
+            "dimensions": [
+                392,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logo2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logo2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3400,
+            "dimensions": [
+                392,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logo1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logo1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4462,
+            "dimensions": [
+                392,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "excavator-works-on-the-seashore-during-a-storm-2022-11-01-04-34-45-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/excavator-works-on-the-seashore-during-a-storm-2022-11-01-04-34-45-utc-800x360.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 187738,
+            "dimensions": [
+                2500,
+                1125
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "empty-wheel-loader-machine-loading-gravel-industr-2021-08-28-18-37-42-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/empty-wheel-loader-machine-loading-gravel-industr-2021-08-28-18-37-42-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                }
+            ],
+            "filesize": 228394,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "on-construction-site-2022-11-16-10-05-40-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/on-construction-site-2022-11-16-10-05-40-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                }
+            ],
+            "filesize": 151059,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "construction-site-2021-08-27-22-39-14-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/construction-site-2021-08-27-22-39-14-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                }
+            ],
+            "filesize": 215215,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "heavy-machinery-in-quarry-2021-08-26-15-55-22-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/12\/heavy-machinery-in-quarry-2021-08-26-15-55-22-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                }
+            ],
+            "filesize": 234060,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "heavy-excavator-on-a-quarry-excavation-machinery-2022-05-18-19-56-40-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/12\/heavy-excavator-on-a-quarry-excavation-machinery-2022-05-18-19-56-40-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 244823,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "empty-dumper-truck-driver-in-a-stone-quarry-2022-11-02-00-13-07-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/12\/empty-dumper-truck-driver-in-a-stone-quarry-2022-11-02-00-13-07-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                }
+            ],
+            "filesize": 216845,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "block-and-heavy-machinery-in-quarry-2022-03-04-05-50-26-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/12\/block-and-heavy-machinery-in-quarry-2022-03-04-05-50-26-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/product-detail.json",
+                    "name": "Product-Detail"
+                }
+            ],
+            "filesize": 203880,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 146511,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 104379,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl5.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 179546,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 95304,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 137339,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "ppl6.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/ppl6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 182868,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "with-yellow-headphones-on-neck-construction-worke-2022-02-03-17-47-36-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/with-yellow-headphones-on-neck-construction-worke-2022-02-03-17-47-36-utc-copy-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 164354,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logoe1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logoe1.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 11220,
+            "dimensions": [
+                781,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "excavator-2022-09-15-23-02-51-utc-copy.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/excavator-2022-09-15-23-02-51-utc-copy-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 163070,
+            "dimensions": [
+                1200,
+                801
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/HDRF7GCN4J"
+        },
+        {
+            "filename": "logoe2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/excava\/wp-content\/uploads\/sites\/130\/2022\/11\/logoe2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 11862,
+            "dimensions": [
+                781,
+                220
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

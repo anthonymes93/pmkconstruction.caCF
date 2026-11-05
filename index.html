@@ -73,6 +73,8 @@ a, .page-title {
   color: #fff;
 }
 </style>
+<link rel="stylesheet" href="/assets/pmk-contact.css">
+<script defer src="/assets/pmk-contact.js"></script>
 </head>
 
 <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home wp-singular page-template-default page page-id-635 wp-custom-logo wp-theme-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.6.11 ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-hfb-header elementor-default elementor-kit-636 elementor-page elementor-page-635">
@@ -972,18 +974,20 @@ Skilled Carpenter.</h1>				</div>
 				</div>
 				<div class="elementor-element elementor-element-77ee583 elementor-widget elementor-widget-wpforms" data-id="77ee583" data-element_type="widget" data-e-type="widget" data-widget_type="wpforms.default">
 				<div class="elementor-widget-container">
-					<div class="wpforms-container " id="wpforms-6"><form id="wpforms-form-6" class="wpforms-validate wpforms-form" data-formid="6" method="post" enctype="multipart/form-data" action="/" data-token="f4b96e3846683d9727a58e72a11e9f7d" data-token-time="1793508739"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-6-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-6-field_0">Name <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-6-field_0" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][0]" placeholder="Enter your full name" required></div><div id="wpforms-6-field_8-container" class="wpforms-field wpforms-field-text" data-field-id="8"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-6-field_8">Single Line Text</label><input type="text" id="wpforms-6-field_8" class="wpforms-field-large" name="wpforms[fields][8]" placeholder="Phone number"></div><div id="wpforms-6-field_7-container" class="wpforms-field wpforms-field-email" data-field-id="7"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-6-field_7">Email <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-6-field_7" class="wpforms-field-large wpforms-field-required" name="wpforms[fields][7]" placeholder="Your email" spellcheck="false" required></div><div id="wpforms-6-field_5-container" class="wpforms-field wpforms-field-text" data-field-id="5"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-6-field_5">Single Line Text</label><input type="text" id="wpforms-6-field_5" class="wpforms-field-large" name="wpforms[fields][5]" placeholder="Service Description"></div>		<div id="wpforms-6-field_1-container" class="wpforms-field wpforms-field-text" data-field-type="text" data-field-id="1">
-			<label class="wpforms-field-label" for="wpforms-6-field_1">Comment Text Email</label>
-			<input type="text" id="wpforms-6-field_1" class="wpforms-field-medium" name="wpforms[fields][1]">
-		</div>
-		<div id="wpforms-6-field_2-container" class="wpforms-field wpforms-field-textarea" data-field-id="2"><label class="wpforms-field-label wpforms-label-hide" for="wpforms-6-field_2">Comment or Message <span class="wpforms-required-label">*</span></label><textarea id="wpforms-6-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" placeholder="Message" required></textarea></div><script>
-				( function() {
-					const style = document.createElement( 'style' );
-					style.appendChild( document.createTextNode( '#wpforms-6-field_1-container { position: absolute !important; overflow: hidden !important; display: inline !important; height: 1px !important; width: 1px !important; z-index: -1000 !important; padding: 0 !important; } #wpforms-6-field_1-container input { visibility: hidden; } #wpforms-conversational-form-page #wpforms-6-field_1-container label { counter-increment: none; }' ) );
-					document.head.appendChild( style );
-					document.currentScript?.remove();
-				} )();
-			</script></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="6"><input type="hidden" name="wpforms[time_token]" value="1793508739.af23c1d8365b9620a6ed797ac5047a697ebd10af6d77bf2fe1a228d3011aff62"><input type="hidden" name="page_title" value="Home"><input type="hidden" name="page_url" value="/"><input type="hidden" name="url_referer" value=""><input type="hidden" name="page_id" value="635"><input type="hidden" name="wpforms[post_id]" value="635"><button type="submit" name="wpforms[submit]" id="wpforms-submit-6" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="GET A FREE QUOTE" aria-live="assertive" value="wpforms-submit">GET A FREE QUOTE</button></div></form></div>  <!-- .wpforms-container -->				</div>
+					<div class="wpforms-container " id="wpforms-6"><form class="pmk-contact-form" data-form-kind="quote">
+  <div class="pmk-fields">
+    <div class="pmk-field"><label class="pmk-visually-hidden" for="pmk-name">Full name</label><input id="pmk-name" name="name" type="text" placeholder="Enter your full name" autocomplete="name" maxlength="140" required></div>
+    <div class="pmk-field"><label class="pmk-visually-hidden" for="pmk-phone">Phone number</label><input id="pmk-phone" name="phone" type="tel" placeholder="Phone number" autocomplete="tel" maxlength="32"></div>
+    <div class="pmk-field"><label class="pmk-visually-hidden" for="pmk-email">Email</label><input id="pmk-email" name="email" type="email" placeholder="Your email" autocomplete="email" maxlength="254"></div>
+    <div class="pmk-field"><label class="pmk-visually-hidden" for="pmk-service">Service description</label><input id="pmk-service" name="service" type="text" placeholder="Service Description" maxlength="220"></div>
+    <div class="pmk-field"><label class="pmk-visually-hidden" for="pmk-message">Message</label><textarea id="pmk-message" name="message" placeholder="Message" maxlength="5000" required></textarea></div>
+    <div class="pmk-honeypot" aria-hidden="true"><label>Leave blank <input name="website" type="text" tabindex="-1" autocomplete="off"></label></div>
+    <div class="pmk-turnstile"></div>
+    <button type="submit" class="pmk-submit">GET A FREE QUOTE</button>
+    <p class="pmk-status" role="status" aria-live="polite"></p>
+  </div>
+  <div class="pmk-success" hidden tabindex="-1"><span aria-hidden="true" class="pmk-success-icon">✓</span><h3>Message sent!</h3><p>Thanks for contacting PMK Construction. We'll get back to you as soon as possible.</p></div>
+</form></div>  <!-- .wpforms-container -->				</div>
 				</div>
 					</div>
 		</div>
